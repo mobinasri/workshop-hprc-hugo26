@@ -1,4 +1,4 @@
-Notes to prepare or use the JupyterHub server for the HPRC Pangenome workshop at HUGO 2024.
+Notes to prepare or use the JupyterHub server for the HPRC Pangenome workshop at HUGO 2026.
 
 To find out how to **run it locally on your computer** see [README.local.md](README.local.md).
 
