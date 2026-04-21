@@ -2,10 +2,8 @@
 
 ## https://tinyurl.com/PangenomeHUGO26
 
-## [Slides](https://docs.google.com/presentation/d/1HijsejJkJ8x_pEStdOHdVnI-DzNQmhUk9I6MF20Ppsk/edit?usp=sharing)
+## [Slides](https://docs.google.com/presentation/d/1Aydbq1PkAXagKncqxX8bevgC9iCzcZiznGIXt6eaoIY/edit?usp=sharing)
 
-
-See `HUGO-Athens 2026_HPRC-Slides.pdf` for the PDF version.
 
 ## [Click here to reach the JupyterHub Server](http://54.201.223.87/)
 
