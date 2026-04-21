@@ -3,7 +3,7 @@
 ## https://tinyurl.com/Pangenome-HUGO26
 
 ## [Slides](https://docs.google.com/presentation/d/1Aydbq1PkAXagKncqxX8bevgC9iCzcZiznGIXt6eaoIY/edit?usp=sharing)
-<img width="2905" height="1633" alt="image" src="https://github.com/user-attachments/assets/452e2184-b5e8-4328-a06d-13216402aa27" />
+<img width="1905" height="633" alt="image" src="https://github.com/user-attachments/assets/452e2184-b5e8-4328-a06d-13216402aa27" />
 
 
 ## [Click here to reach the JupyterHub Server](http://54.201.223.87/)
