@@ -6,3 +6,5 @@ gt_min_var_len: 30
 sample_tsv: "rhce_data/sample_info.tsv"
 sort_gam: true
 kmc_mem_gb: 2
+pangenome_aware_deepvariant: true
+gbz_mem_bytes: 1000000
